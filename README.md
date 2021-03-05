@@ -3,7 +3,6 @@
 Project elaborated with Anwesha Tomar and Sandra Valdes Salas. Special thanks to Avijeet Kartikay for offering orientation with web scraping.
 
 This project involves:
-
 Web scraping of Indeed web page.
 Extraction of most frequent terminology (unigrams, bigrams, and trigrams) in data science job desriptions.
 Comparison between data science terminology and software engineering terminology.
