@@ -1,4 +1,4 @@
-# Automatic-Job-Description-Terminology-Analysis
+# Automatic Terminology Analysis for Data Science Job Descriptions
 
 Project elaborated with Anwesha Tomar and Sandra Valdes Salas. Special thanks to Avijeet Kartikay for offering orientation with web scraping.
 
