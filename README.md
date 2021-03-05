@@ -6,7 +6,7 @@ BRIEF DESCRIPTION:
 
 The data was Web scraped of Indeed web page.
 
-Extraction of ngrams from the job desriptions.
+Extraction of ngrams from the job descriptions.
 
 Comparing data science and software engineering terminology.
 
