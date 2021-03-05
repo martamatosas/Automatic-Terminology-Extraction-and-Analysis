@@ -1,6 +1,20 @@
 # Automatic-Job-Description-Terminology-Analysis
 
-Unsupervised natural language processing model to extract data science and software engineering job descriptions terminology to identify and compare skill requirements by location and industry.
+Unsupervised natural language processing model to extract data science and software engineering job descriptions terminology to identify and compare skill requirements by location and industry
+
+BRIEF DESCRIPTION:
+
+The data was Web scraped of Indeed web page.
+
+Extraction of ngrams from the job desriptions.
+
+Comparing data science and software engineering terminology.
+
+Calculated the tf-idf scores to obtain the most relevant data science terms.
+
+Extraction of data science terminology in 6 different U.S. cities and 7 different industries.
+
+The chi-squared of independence between data science terminology, cities and industries was calculated.
 
 **Project files and programs
 
