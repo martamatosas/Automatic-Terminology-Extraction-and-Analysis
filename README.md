@@ -10,7 +10,7 @@ Comparison between data science terminology and software engineering terminology
 Measure the Tf-idf scores of data science terminology to obtain the most relevant terms.
 Analysis of data science terminology found in 6 different U.S. cities (D.C., New York, Chicago, Austin, Los Angeles, San Francsico) and 7 different industries (Healthcare, Banks and financial services, Insurance, Government, Aeropsace and Defense, Technology, Consulting and Business Services).
 
-Key findings:
+**Key findings:**
 
 Data Science and Software Engineering job descriptions share common terminology.
 Data Science terminology is mostly composed of unigrams and bigrams.
