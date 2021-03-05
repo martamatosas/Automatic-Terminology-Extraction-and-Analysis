@@ -1,35 +1,21 @@
 # Automatic-Job-Description-Terminology-Analysis
 
+Project elaborated with Anwesha Tomar and Sandra Valdes Salas. Special thanks to Avijeet Kartikay for offering orientation with web scraping.
 
-Project elaborated with Anwesha Tomar and Sandra Valdes Salas. Special thanks to Avijeet Kartikay for offering orientation with web scraping. This project involves:
+This project involves:
 
 Web scraping of Indeed web page.
 Extraction of most frequent terminology (unigrams, bigrams, and trigrams) in data science job desriptions.
 Comparison between data science terminology and software engineering terminology.
 Measure the Tf-idf scores of data science terminology to obtain the most relevant terms.
 Analysis of data science terminology found in 6 different U.S. cities (D.C., New York, Chicago, Austin, Los Angeles, San Francsico) and 7 different industries (Healthcare, Banks and financial services, Insurance, Government, Aeropsace and Defense, Technology, Consulting and Business Services).
-Top findings:
+
+Key findings:
 
 Data Science and Software Engineering job descriptions share common terminology.
 Data Science terminology is mostly composed of unigrams and bigrams.
 Python, R, Communication skill, Best practice are the most relevant terms in Data Science.
 A Chi-squared of independence test concluded that Data Science terminology is dependent upon cities and industries.
-
-Unsupervised natural language processing model to extract data science and software engineering job descriptions terminology to identify data science terms and explore the relationship between those data science terms, and location and industry.
-
-BRIEF DESCRIPTION:
-
-The data was Web scraped of Indeed web page.
-
-Extraction of ngrams from the job descriptions.
-
-Comparing data science and software engineering terminology.
-
-Calculated the tf-idf scores to obtain the most relevant data science terms.
-
-Extraction of data science terminology in 6 different U.S. cities and 7 different industries.
-
-The chi-squared test of independence is performed to test the project hypothesis: the result indicats that data science terms are not independent of location and industry variables, providing justification to invest more efforts in a more efficient approach.
 
 **Project files and programs
 
