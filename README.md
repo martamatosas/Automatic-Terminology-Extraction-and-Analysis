@@ -17,7 +17,7 @@ Data Science terminology is mostly composed of unigrams and bigrams.
 Python, R, Communication skill, Best practice are the most relevant terms in Data Science.
 A Chi-squared of independence test concluded that Data Science terminology is dependent upon cities and industries.
 
-**Project files and programs
+**Project files and programs**
 
 Name of the program:  NLP_project_part1_final
 
