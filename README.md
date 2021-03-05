@@ -1,6 +1,6 @@
 # Automatic-Job-Description-Terminology-Analysis
 
-Unsupervised natural language processing model to extract data science and software engineering job descriptions terminology to identify and compare skill requirements by location and industry
+Unsupervised natural language processing model to extract data science and software engineering job descriptions terminology to identify data science terms and explore the relationship between those data science terms, and location and industry.
 
 BRIEF DESCRIPTION:
 
@@ -14,7 +14,7 @@ Calculated the tf-idf scores to obtain the most relevant data science terms.
 
 Extraction of data science terminology in 6 different U.S. cities and 7 different industries.
 
-The chi-squared of independence between data science terminology, cities and industries was calculated.
+The chi-squared test of independence is performed to test the project hypothesis: the result indicats that data science terms are not independent of location and industry variables, providing justification to invest more efforts in a more efficient approach.
 
 **Project files and programs
 
